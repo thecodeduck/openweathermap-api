@@ -20,6 +20,7 @@
 		"build-docs": "sh ./tasks/build-docs.sh",
 		"build-src": "sh ./tasks/build-src.sh",
 		"package-check": "sh ./tasks/package-check.sh",
+		"package-publish": "sh ./tasks/package-publish.sh",
 		"setup": "sh ./tasks/setup.sh",
 		"test": "sh ./tasks/test.sh"
 	},
